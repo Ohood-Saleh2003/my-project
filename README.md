@@ -166,7 +166,7 @@ $conn->close();
 </html> . 
 
 ### Web-based control interface:
-
+<img src="https://github.com/Ohood-Saleh2003/my-project/commit/348c6d4178c1b50a285f63f14a233eb6554e05d0#r143913175.png"width="150">
 ### Database interation:
 
 Design a restaurant website from scratch
