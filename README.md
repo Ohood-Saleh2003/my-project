@@ -11,8 +11,8 @@ Steps to create a simple web interface to control a bot and display its latest m
 * Create a new database, on Control.
   Create the robot_movements table within SQL:
 
-. {
-CREATE TABLE robot_movements (
+
+ . CREATE TABLE robot_movements ( {
 id INT AUTO_INCREMENT PRIMARY KEY,
 direction VARCHAR(255) NOT NULL
 ); 
