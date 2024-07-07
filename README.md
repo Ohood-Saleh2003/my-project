@@ -62,6 +62,7 @@ direction VARCHAR(255) NOT NULL
 </body>
 </html> .
 }
+
  ### 5. Create the control script:
 *In VS Code, create a new file named control1.php in the control directory.
 *Add the following code to process movement orders and update the database:
