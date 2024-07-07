@@ -166,7 +166,7 @@ $conn->close();
 </html> . 
 
 ### Web-based control interface:
-<img src= "C:\Users\HP\Pictures\Screenshots\لقطة شاشة 2024-07-07 054521.png"width=150>
+
 ### Database interation:
 
 Design a restaurant website from scratch
