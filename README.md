@@ -1,4 +1,3 @@
 # my-project
-# ohood
-## samar
+# o
 Design a restaurant website from scratch
