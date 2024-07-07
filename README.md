@@ -10,10 +10,12 @@ Steps to create a simple web interface to control a bot and display its latest m
 * Within XAMMP, go to Admin to access the MySQL management interface.
 * Create a new database, on Control.
 * Create the robot_movements table within SQL:
+'''
 CREATE TABLE robot_movements (
 id INT AUTO_INCREMENT PRIMARY KEY,
 direction VARCHAR(255) NOT NULL
 );
+'''
 ### 4. Create the control page:
 * In VS Code, create a new file named index1.php in the control directory.
 * Add the following code to create a simple control interface:
