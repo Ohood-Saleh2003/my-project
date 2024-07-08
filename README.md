@@ -18,13 +18,13 @@ Steps to create a simple web interface to control a bot and display its latest m
   
 
  ### 5. Create the control script:
-*In VS Code, create a new file named control1.php in the control directory.
-*Add the following code to process movement orders and update the database:
-.<?php
+* In VS Code, create a new file named control1.php in the control directory.
+* Add the following code to process movement orders and update the database:
+
 
 ### 6. Create the presentation page:
-*In VS Code, create a new file named last value.php in the control directory.
-*Add the following code to retrieve the last recorded movement direction from the database and display it:
+* In VS Code, create a new file named last value.php in the control directory.
+* Add the following code to retrieve the last recorded movement direction from the database and display it:
 
 
 ### Web-based control interface:
