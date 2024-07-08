@@ -170,10 +170,12 @@ $conn->close();
 </html>
 ```
 ### Web-based control interface:
+![لقطة شاشة 2024-07-08 103933](https://github.com/Ohood-Saleh2003/my-project/assets/173670281/52666402-41fc-41dd-a56e-a37bf2b61740)
 
 ### Database interation:
+![لقطة شاشة 2024-07-08 045619](https://github.com/Ohood-Saleh2003/my-project/assets/173670281/ddd2598e-45c0-43dd-ace8-604831e28d8c)
 
 ### Last movement dirction:
+![لقطة شاشة 2024-07-08 104243](https://github.com/Ohood-Saleh2003/my-project/assets/173670281/ee299cf5-2ab8-4e47-99e3-8c3b41e6677c)
 
 
-Design a restaurant website from scratch
