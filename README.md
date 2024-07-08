@@ -1,10 +1,10 @@
 # my-project
 Steps to create a simple web interface to control a bot and display its latest movement using XAMPP and Visual Studio Code (VS Code)
 ### 1.Set up XAMPP and VS Code:
-* Install XAMPP on your system, which includes Apache, MySQL, PHP and other components needed for web development.
+* Install XAMPP on your system, which includes Apache, MySQL , and other components needed for web development.
 * Install VS Code, a popular code editor, on your system.
 ### 2.Create a new project directory:
-* In the htdocs folder of XAMPP, create a new directory for your project:  control.
+* In the htdocs folder of XAMPP, create a new directory for your project.
 ### 3. Database setup:
 * Register XAMMP control panel and we can allow Apache and MySQL modules.
 * Within XAMMP, go to Admin to access the MySQL management interface.
@@ -17,7 +17,7 @@ direction VARCHAR(255) NOT NULL
 );
 ```
 ### 4. Create the control page:
-* In VS Code, create a new file named index1.php in the control directory.
+* In VS Code, create a new file named index1.php
 * Add the following code to create a simple control interface:
   
 ```
@@ -63,7 +63,7 @@ direction VARCHAR(255) NOT NULL
 ```
 
  ### 5. Create the control script:
-* In VS Code, create a new file named control1.php in the control directory.
+* In VS Code, create a new file named control1.php in.
 * Add the following code to process movement orders and update the database:
 * 
 ```
@@ -95,8 +95,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 $conn->close();
 ?>
 ```
-### 6. Create the presentation page:
-* In VS Code, create a new file named last value.php in the control directory.
+### 6. Create the last page:
+* In VS Code, create a new file named last value.php .
 * Add the following code to retrieve the last recorded movement direction from the database and display it:
 ```
 <!DOCTYPE html>
