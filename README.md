@@ -16,11 +16,11 @@ id INT AUTO_INCREMENT PRIMARY KEY,
 direction VARCHAR(255) NOT NULL
 );
 ```
- 
 ### 4. Create the control page:
 * In VS Code, create a new file named index1.php in the control directory.
 * Add the following code to create a simple control interface:
-  ```
+  
+```
   <!DOCTYPE html>
 <html>
 <head>
